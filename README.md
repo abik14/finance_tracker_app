@@ -16,7 +16,7 @@ Comprehensive Expense Tracking: Log transactions with categories, dates, and cus
 - Database: Room (SQLite abstraction layer)
 - DI/Factory: Custom ViewModelProviders for dependency injection.
 
-# Libraries:
+# Libraries
 - PDFBox-Android: For document parsing.
 - Kotlinx Serialization: For efficient JSON handling.
 - Lifecycle Runtime Compose: For state-aware UI components.
