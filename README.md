@@ -1,5 +1,7 @@
 # Finance Tracker app - Android version
 
+A modern, privacy-focused Android application designed to help users take control of their financial health. Built with Kotlin and Jetpack Compose, this project showcases a robust implementation of the MVVM architecture, and local data persistence with a soft & welcoming desgin.
+
 # Key Features
 
 Comprehensive Expense Tracking: Log transactions with categories, dates, and custom notes :
